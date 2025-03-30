@@ -64,7 +64,7 @@ project/
 
 1. Clone the repository:
 ```
-git clone https://github.com/AmarBackInField/IMax_Assignment.git
+git clone https://github.com/Rishabh483/ERP-Multilingual-agent.git
 conda create -p rec python=3.10 -y
 conda activate rec
 pip install -r requirements.txt
